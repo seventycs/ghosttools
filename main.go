@@ -9,7 +9,6 @@ import (
 func main() {
 	go updater.Check()
 	ui.Startup()
-	ui.Clear()
 	ui.AnimatedBanner()
 	cmd.Run()
 }
