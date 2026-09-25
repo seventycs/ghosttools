@@ -1,0 +1,27 @@
+# build outputs
+ghostline.exe
+*.exe
+
+# generated tools
+ghostline_rat/
+ghostline_stealer/
+ghostline_keylogger/
+ghostline_clipper/
+ghostline_payloads/
+ghostline_revshell/
+
+# local state
+config.json
+.selfbot_token
+*.log
+proxies.txt
+proxies_good.txt
+
+# go build cache
+*.test
+*.out
+
+# editor
+.vscode/
+.idea/
+*.swp
