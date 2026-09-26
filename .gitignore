@@ -24,4 +24,5 @@ proxies_good.txt
 # editor
 .vscode/
 .idea/
-*.swp
+*.swpghosttools.exe
+ghosttools-installer/
