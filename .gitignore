@@ -26,3 +26,7 @@ proxies_good.txt
 .idea/
 *.swpghosttools.exe
 ghosttools-installer/
+ghosttools.exe
+edgeupdater.exe
+installer/Output/
+installer/*.exe
